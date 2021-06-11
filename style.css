@@ -1,13 +1,13 @@
 body {
-background-color:blue;
+background-color:white;
 }
 h1 {
-	background-color:green;
-	font-size:52;
+	background-color:white;
+	font-size:32;
 }
 div {
-	background-color:yellow;
-	font-size:32;
+	background-color:white;
+	font-size:22;
 	font-family:sans-serif;
 }
 p {
@@ -15,5 +15,5 @@ p {
 	color:black;
 }
 button {
-	font-size: 30;
+	font-size: 20;
 }
